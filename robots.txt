@@ -1,3 +1,6 @@
 # hexo robots.txt
 User-agent: *
 Allow: /
+
+Sitemap: https://wenkaiyan-kevin.github.io/sitemap.xml
+Sitemap: https://wenkaiyan-kevin.github.io/baidusitemap.xml
